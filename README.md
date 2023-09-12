@@ -1,4 +1,4 @@
-# <h2>GenAIOPS</h2>
+# <h2>GenAIOPS Summer Research Technical Project 2023 </h2>
 
 This is the summer internship technical project where i added different different technology through html and creat a web application Advanced Web Application with Python, AWS, and Integrated Services
 
