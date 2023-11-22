@@ -1,6 +1,6 @@
 # <h2>GenAIOPS Summer Research Technical Project 2023 </h2>
 
-This is the summer internship technical project where i added different different technology through html and creat a web application Advanced Web Application with Python, AWS, and Integrated Services
+This is the summer internship technical project where i added different different technology through html and created a web application Advanced Web Application with Python, AWS, and Integrated Services
 
 Welcome to the repository of an innovative web application that combines the power of Python programming and AWS cloud services to deliver a feature-rich and dynamic user experience. This project demonstrates the seamless integration of various technologies, including Python CGI as the backend framework, AWS services like EC2, S3, AWS Translate, AWS Rekognition, as well as email and SMS functionalities. Location-based features are also incorporated using Python.
 
